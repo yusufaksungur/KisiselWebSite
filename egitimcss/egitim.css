@@ -479,6 +479,22 @@ section{
     margin: 0 auto;
     color: var(--main-color);
 }
+
+.download-button {
+    display: inline-block;
+    padding: 20px 15px;
+    background-color: #06bb12;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.download-button:hover {
+    background-color: #17c63d;
+}
+
 /* SERVICES END */
 
 
